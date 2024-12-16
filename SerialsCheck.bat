@@ -1,7 +1,7 @@
 @echo off
 cls
 mode con: cols=40 lines=31
-title Burgies I Serials
+title Alex's Serials
 echo [90m==========================[97m
 echo Bios
 wmic bios get serialnumber
